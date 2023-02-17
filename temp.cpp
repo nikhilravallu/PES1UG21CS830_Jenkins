@@ -1,11 +1,9 @@
-//File: hello.cpp
-#include <iostream>
+#include<iostream>
 using namespace std;
 
 int main(void) {
-  cout << "Hello, World\n";
-  cout << "This is Nikhil\n";
-  cout << "I have successfully built and run\n";
-  
+  cout << "Hello, I am Nikhil R of SEC-I\n";
+  cout << "I am in Task5 and my SRN is PES1UG21CS830\n";
+  cout << "Resolved the error";
   return 0;
 }
